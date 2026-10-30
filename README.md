@@ -42,7 +42,7 @@ $ rails test
 学生が [GitHub Codespaces](https://github.com/features/codespaces) で**最小の操作ですぐ動作確認ができるように**、プロジェクトのルートに配置してあります。  
 
 ※ 本コードは以下のコミット時点の内容をルートに再構成しています：  
-https://github.com/yasslab/sample_apps/tree/3e3e5778c5d436726d367b2c970ed0a8c380b4b5  
+https://github.com/yasslab/sample_apps/tree/9270936e367e61c906d339be3ba7c1f897398e03  
 
 ⚠️ このリポジトリはテンプレートとして使われることを想定しています。リポジトリ作成後は .github/workflows を削除してください。準備フェーズですので、mainブランチで直接作業する例を示します。  
 
